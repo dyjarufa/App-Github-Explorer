@@ -12,7 +12,7 @@
 
 ## :camera: Demonstração
 
-![gif](src\assets\git_explorer.gif)
+![gif](https://raw.githubusercontent.com/jgabrielfreitas/App-Github-Explorer/master/src/assets/git_explorer.gif)
 
 
 ## :rocket: Tecnologias
