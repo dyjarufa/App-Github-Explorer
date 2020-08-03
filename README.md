@@ -4,15 +4,15 @@
 
 <br>
 
-<p align="center">
-  <a href="https://githubexplorerapc.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="src\assets\rocketseat.png">
-  </a>
-</p>
+<h1 align="center">
+  
+    <img alt="rocket" src="https://github.com/dyjarufa/App-Github-Explorer/blob/master/src/assets/rocketseat.png">
+  
+</h1>
 
 ## :camera: Demonstração
 
-![gif](src\assets\git_explorer.gif)
+![gif](https://github.com/dyjarufa/App-Github-Explorer/blob/master/src/assets/git_explorer.gif)
 
 
 ## :rocket: Tecnologias
