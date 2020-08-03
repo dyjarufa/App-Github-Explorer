@@ -5,10 +5,10 @@
 <br>
 
 <h1 align="center">
-  
-    <img alt="rocket" src="https://github.com/dyjarufa/App-Github-Explorer/blob/master/src/assets/rocketseat.png">
-  
+    <img  src="https://github.com/dyjarufa/App-Github-Explorer/blob/master/src/assets/rocketseat.png" />
 </h1>
+
+
 
 ## :camera: Demonstração
 
