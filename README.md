@@ -12,8 +12,10 @@
 
 ## :camera: Demonstração
 
-![gif](https://github.com/dyjarufa/App-Github-Explorer/blob/master/src/assets/git_explorer.gif)
-
+  
+<p align="center">
+  <img width=800 alt="Demo on Netlify" src="https://github.com/dyjarufa/App-Github-Explorer/blob/master/src/assets/git_explorer.gif">
+</p>
 
 ## :rocket: Tecnologias
 
@@ -34,6 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ✔️Eslint
 
 ✔️Prettier
+
+✔️Lottie
 
 
 ## 💻 Projeto
